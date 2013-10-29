@@ -1,0 +1,10 @@
+         NODE EXPANDED         
+      Euclidean  Canberra  Knight   
+Input1    2         4         3         
+Input2    2         5         3         
+Input3    -         -         -         
+
+Optimal Path Solution:
+Input1: (2, 2)(3, 2)
+Input2: (2, 2)(3, 2)
+Input3: -1
